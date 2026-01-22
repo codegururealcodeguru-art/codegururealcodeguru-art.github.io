@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- CHANNEL HOME -->
+  <url>
+    <loc>https://codegururealcodeguru-art.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- PROJECT / VIDEO PAGES -->
+  <url>
+    <loc>https://codegururealcodeguru-art.github.io/result-generator_app/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://codegururealcodeguru-art.github.io/why-python-for-today-and-future/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- FUTURE VIDEOS (ADD LIKE THIS) -->
+  <url>
+    <loc>https://codegururealcodeguru-art.github.io/python-common-mistakes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://codegururealcodeguru-art.github.io/python-projects/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://codegururealcodeguru-art.github.io/python-ai-projects/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
